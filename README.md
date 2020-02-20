@@ -7,7 +7,7 @@ Made by:
 Quentin Sanchez
 Mattis Faucheux
 
-
+Duration: 1 month
 
 
 
