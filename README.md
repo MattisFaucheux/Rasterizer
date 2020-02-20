@@ -16,6 +16,7 @@ PROJECT:
 
 Inputs:
 "1" : Fait apparaitre un triangle avec l'interpollation de couleurs
+
 "2" : Fait apparaitre un triangle et un cube pour montrer le Z-Buffer
 "3" : Fait apparaitre une sphere
 "4" : Fait apparaitre un cube avec une texture
